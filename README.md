@@ -2,8 +2,10 @@
 Projekt na zajęcia Programowanie Zaawansowane
 
 
-Żeby odpalić FRONTEND wystarczy pobrać najnowszego Node.js
+### Żeby odpalić FRONTEND wystarczy pobrać najnowszego Node.js
+```
 https://nodejs.org/en/
+```
 
 ### Oraz przejść w cmd do folderu FRONTEND i wpisać
 ```
